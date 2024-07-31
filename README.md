@@ -1,2 +1,2 @@
-# RCD-QR
-This is the repository for the RCD QR code scanner system.
+# Square Event Tickets System
+This is the repository for the Square Events Ticketing system.
