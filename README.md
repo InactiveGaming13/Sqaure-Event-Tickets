@@ -1,2 +1,2 @@
-# RCD-QR-FRONTEND
+# RCD-QR
 This is the repository for the RCD QR code scanner system.
